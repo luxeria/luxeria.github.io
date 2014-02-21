@@ -90,9 +90,8 @@ window[callback] = function (root) {
          * support ES5 are not able to parse ISO-8601 formatted strings, thus
          * we use a hacky regular expression instead.
          */
-        var w = when_str.split(/\D/);
-        w[1] -= 1; // month needs to zero-based
-        var when = new Date(Date.UTC.apply(Date, w));
+        var s = when_str.split(/\D/);
+        var when = new Date(s[0], s[1] - 1, s[2], s[3], s[4], s[5], s[6]);
 
         // human readable date format
         var day = when.getDate();

@@ -129,23 +129,7 @@ window[callback] = function (root) {
                 'https://www.google.com/calendar/embed?src=', calendar_id,
                 '">', 'Alle Termine anzeigen »', '</a>');
 
-    /* The following code could be replaced with:
-     *
-     *   document.getElementById("calendar").innerHTML = html.join("");
-     *
-     * But IE8 and older will throw an 'Unknown Runtime Error' because of
-     * improper support for the innerHTML attribute:
-     *
-     *   http://msdn.microsoft.com/en-us/library/ie/ms533897%28v=vs.85%29.aspx
-     *
-     * The workaround is to replace the element using the DOM API.
-     */
-     var oldCal = document.getElementById("calendar");
-     var newCal = document.createElement(oldCal.nodeName);
-     newCal.id = "calendar";
-     newCal.innerHTML = html.join("");
-
-     oldCal.parentNode.replaceChild(newCal, oldCal);
+    document.getElementById("calendar").innerHTML = html.join("");
 };
 
 // inject Google Calendar JSONP

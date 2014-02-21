@@ -81,7 +81,18 @@ window[callback] = function (root) {
 
         // start date string can be parsed by js and html5
         var when_str = entry['gd$when'][0].startTime;
-        var when = new Date(when_str);
+
+        /* The following code could be replace with:
+         *
+         *   var when = new Date(when_str);
+         *
+         * IE8 (and older), Safari 5, FFX 3.5 and other browsers which do not
+         * support ES5 are not able to parse ISO-8601 formatted strings, thus
+         * we use a hacky regular expression instead.
+         */
+        var w = when_str.split(/\D/);
+        w[1] -= 1; // month needs to zero-based
+        var when = new Date(Date.UTC.apply(Date, w));
 
         // human readable date format
         var day = when.getDate();
@@ -119,7 +130,23 @@ window[callback] = function (root) {
                 'https://www.google.com/calendar/embed?src=', calendar_id,
                 '">', 'Alle Termine anzeigen »', '</a>');
 
-    document.getElementById("calendar").innerHTML = html.join("");
+    /* The following code could be replaced with:
+     *
+     *   document.getElementById("calendar").innerHTML = html.join("");
+     *
+     * But IE8 and older will throw an 'Unknown Runtime Error' because of
+     * improper support for the innerHTML attribute:
+     *
+     *   http://msdn.microsoft.com/en-us/library/ie/ms533897%28v=vs.85%29.aspx
+     *
+     * The workaround is to replace the element using the DOM API.
+     */
+     var oldCal = document.getElementById("calendar");
+     var newCal = document.createElement(oldCal.nodeName);
+     newCal.id = "calendar";
+     newCal.innerHTML = html.join("");
+
+     oldCal.parentNode.replaceChild(newCal, oldCal);
 };
 
 // inject Google Calendar JSONP

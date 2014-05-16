@@ -1,0 +1,32 @@
+table.sponsors {
+    border-collapse: collapse;
+    margin: 0.25em auto 1.75em;
+    width: 96%;
+}
+
+table.sponsors th {
+    text-align: left;
+    font-family: Yanone Kaffeesatz, sans-serif;
+    font-size: 110%;
+}
+
+table.sponsors, table.sponsors th {
+    border-bottom: 1px dotted black;
+}
+
+table.sponsors td, table.sponsors th {
+    padding-top: 0.6ex;
+    padding-bottom: 0.6ex;
+    padding-right: 0.1ex;
+    padding-left: 1ex;
+}
+
+table.sponsors td:first-child {
+    white-space: nowrap;
+    padding-right: 1.2ex;
+    font-style: normal;
+}
+
+table.sponsors td {
+    font-style: italic;
+}

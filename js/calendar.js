@@ -13,7 +13,7 @@ var callback = 'google_calendar_cb';
 var max_days = 5;
 
 var jsonp = ['https://www.google.com/calendar/feeds/', calendar_id,
-              '/public/full?',
+              '/public/basic?',
                 '&alt=json-in-script',
                 '&callback=', callback,
                 '&orderby=starttime',

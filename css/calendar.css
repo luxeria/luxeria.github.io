@@ -1,0 +1,13 @@
+#calendar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#calendar li.vevent {
+    list-style-type: disc;
+    margin: 0 0 0.5em 1.5em;
+}
+
+#calendar .description, #calendar a.more { {
+    font-size: small;
+}

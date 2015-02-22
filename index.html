@@ -17,6 +17,33 @@
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+	<script src="js/vendor/jquery-1.9.0.min.js"></script>
+	<script> 
+		$(function(){
+			$("#includeInfo").load("content/info.html"); 
+		});
+		$(function(){
+			$("#includeMotto").load("content/motto.html"); 
+		});
+		$(function(){
+			$("#includeMembers").load("content/members.html"); 
+		});
+		$(function(){
+			$("#includeMeetings").load("content/meetings.html"); 
+		});
+		$(function(){
+			$("#includeEvents").load("content/events.html"); 
+		});
+		$(function(){
+			$("#includeOffers").load("content/offers.html"); 
+		});
+		$(function(){
+			$("#includeBiblio").load("content/biblio.html"); 
+		});
+		$(function(){
+			$("#includeWiki").load("content/wiki.html"); 
+		});
+    	</script>
     </head>
     <body>
 
@@ -40,83 +67,24 @@
 
                 <article>
                     <header>
-                        <h1>Was ist LuXeria?</h1>
-                        <p>LuXeria ist ein Verein im Raum Luzern, welcher zum
-                           Ziel hat, quelloffene Systeme und Applikationen zu
-                           fördern.
-                           Der Verein wurde gegründet um die Entschlossenheit
-                           gegenüber Free Software und OpenSource zu
-                           unterstreichen. So wollte man verhindern als
-                           einfache UserGroup von Linux Anwendern und
-                           Programmierern wahrgenommen zu werden. </p>
+                    <h1>Was ist LuXeria?</h1>
+		    	<div id="includeInfo"></div>
                     </header>
                     <h2>Motto</h2>
-                    <p>Das Motto des Vereins lautet OpenSource – Open Mind.
-                       Die Mitglieder von LuXeria vertreten die Meinung,
-                       dass Free Software bzw. OpenSource wichtig ist und
-                       der Austausch unter den Usern im Zentrum stehen
-                       soll.</p>
+			<div id="includeMotto"></div>
                     <h2>Mitglieder</h2>
-                    <p>Die Mitglieder des LuXeria kommen aus allen
-                       Schichten der Gesellschaft. Vom jungen Lehrling,
-                       über den Quereinsteiger bis hin zum alten Hasen der
-                       IT ist so ziemlich alles vertreten. Die Meisten der
-                       Mitglieder sind jedoch Studenten der Informatik
-                       im Raum Zentralschweiz (Hochschule Luzern,
-                       Hochschule Rapperswil, Eidgenössische Technische
-                       Hochschule Zürich). Aktuell ist die LuXeria mit 15
-                       Mitglieder vertreten. Zentraler Bestandteil und
-                       gemeinsamer Nenner der meisten Mitglieder ist Linux.
-                       Besondere Programme oder Programmierspachen sind
-                       sehr individuell vertreten.</p>
+		    	<div id="includeMembers"></div>
                     <h2>Treffen</h2>
-                    <p>Jeweils am Mittwochabend treffen sich die
-                       Mitglieder von LuXeria im Vereinslokal und
-                       geniessen dort ein gemeinsames Abendessen. An
-                       diesen Treffen findet der primäre Austausch statt.
-                       Meist erfolgt dies in offenen Diskussionen oder
-                       kleineren Arbeitsgruppen. Viele der Mitglieder
-                       arbeiten aber auch selbstständig an ihren eigenen
-                       Projekten und sind "einfach nur dabei".
-                       In unregelmässigen
-                       Intervallen finden spontane oder angekündigte
-                       Präsentationen, Vorträge und Demos statt.
-                       Die aktuellen Angebote sind unter <i>News</i>
-                       aufgeführt.</p>
+		    	<div id="includeMeetings"></div>
                     <h2>Events</h2>
-                    <p>LuXeria versteht sich nicht nur als ein
-                       zweckorientierter Verein, sondern auch als soziale
-                       Gruppe. So finden ab und zu auch vom Verein
-                       unabhängige Treffen und Events statt. Dies können
-                       persönliche Feiern sein oder einfach gemeinsame
-                       Ausflüge wie etwa an den Chaos Communication Congress.
-                       </p>
+		    	<div id="includeEvents"></div>
                     <hr id="angebote">
                     <h1>Angebote</h1>
-                    <p>LuXeria bietet seinen Mitgliedern und Besuchern
-                       viele Möglichkeiten sich aktiv im Bereich IT,
-                       Programmierung und Technik im Allgemeinen zu
-                       bilden. Dabei wird keine Möglichkeit ausgelassen
-                       auch untereinander zu Kommunizieren, Fragen zu
-                       stellen und Antworten zu bekommen.</p>
+		    	<div id="includeOffers"></div>
                     <h2>Bibliothek</h2>
-                    <p>LuXeria verfügt über eine Literatursammlung die sich
-                       dank grosszügiger Spenden sehr ausgeweitet hat.
-                       Der Grossteil der Literatur wird durch Bücher
-                       und Magazine gebildet. Kernthemen sind
-                       hierbei typisch im Bereich über Programmierung
-                       und Systeme. Weiter gibt es auch Literatur zu
-                       Themen aus der Subkultur der Nerds & Geeks
-                       als auch zeitlose Klassiker des Mainstreams.</p>
+		    	<div id="includeBiblio"></div>
                     <h2>Wiki</h2>
-                    <p>LuXeria betreibt ein eigenes
-                       <a href="http://wiki.luxeria.ch/">Wiki</a>
-                       in welchem viele
-                       interessante Links und Beiträge gesammelt werden.
-                       Dieses Wiki ermöglicht Mitgliedern und Besuchern
-                       einen einfachen Weg zur Zusammenarbeit und Zugang
-                       zu Wissen ob vor Ort dabei oder remote übers
-                       Internet.</p>
+		    	<div id="includeWiki"></div>
                     <h2>Chat</h2>
                     <p>LuXeria betreibt einen IRC Channel auf Freenode.
                        Dieser bietet den Mitgliedern und auch

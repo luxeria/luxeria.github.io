@@ -1,6 +1,6 @@
 (function () {
 
-var url = "http://calendar.luxeria.ch/events.php?jsonp=calendar"
+var url = "https://calendar.luxeria.ch/events.php?jsonp=calendar"
 
 var days_de = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
 var months_de = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli",

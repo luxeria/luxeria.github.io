@@ -10,7 +10,8 @@
   },
   "contact": {
     "email": "zimmermann.anja@outlook.com",
-    "irc": "irc://irc.freenode.net/luxeria"
+    "irc": "irc://irc.freenode.net/luxeria",
+    "twitter": "@LuXeria_Luzern"
   },
   "issue_report_channels": [
     "email"

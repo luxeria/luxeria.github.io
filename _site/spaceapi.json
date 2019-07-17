@@ -1,0 +1,41 @@
+{
+  "api": "0.13",
+  "space": "LuXeria",
+  "logo": "https://luxeria.ch/img/luxeria.png",
+  "url": "https://luxeria.ch/",
+  "location": {
+    "address": "Ebikonerstrasse 75, CH-6043 Adligenswil, Switzerland",
+    "lon": 8.357,
+    "lat": 47.073
+  },
+  "contact": {
+    "email": "zimmermann.anja@outlook.com",
+    "irc": "irc://irc.freenode.net/luxeria",
+    "twitter": "@LuXeria_Luzern"
+  },
+  "issue_report_channels": [
+    "email"
+  ],
+  "state": {
+    "open": null,
+    "message": "Open every Wednesday from 19:00h"
+  },
+  "feeds": {
+    "wiki": {
+      "type": "rss",
+      "url": "https://wiki.luxeria.ch/feed.php"
+    },
+    "calendar": {
+      "type": "ical",
+      "url": "http://calendar.luxeria.ch/feeds/meetings.ics"
+    },
+    "calendar": {
+      "type": "ical",
+      "url": "http://calendar.luxeria.ch/feeds/events.ics"
+    }
+  },
+  "projects": [
+    "https://wiki.luxeria.ch/",
+    "https://github.com/luxeria"
+  ]
+}

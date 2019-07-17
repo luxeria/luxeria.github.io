@@ -21,6 +21,9 @@ Top! - *Barack Obama*
 {: .box-note}
 WE APOLOGIZE FOR THE INCONVENIENCE - *God*
 
+{: .box-note}
+Wieso möchemers nid mit Hugo anstatt Jekyll?- *Cyrus*
+
 ## Wie es dazu kam
 Unsere alte Website ist zwar 100% responsive und usability mässig gut aufgelegt, trotzdem wollten wir uns mehr in einem guten Look präsentieren.
 Vorallem fehlte uns auf der alten Website die Funktion, Neuigkeiten zu veröffentlichen und Blogs zu schreiben. Dies haben wir alles nun implementiert und sind sehr glücklich damit!

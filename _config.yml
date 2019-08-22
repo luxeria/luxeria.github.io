@@ -8,7 +8,7 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://www.luxeria.ch"
+url: "https://luxeria.ch"
 baseurl: ""
 email: "zimmermann.anja@outlook.com"
 # Of course don't forget to change the username and projectname to YOUR username and project

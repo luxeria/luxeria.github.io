@@ -3,6 +3,26 @@ layout: page
 title: Kontakt
 ---
 
+<h3>Chats</h3>
+Bist du neugierig geworden? Dann schau unverbindlich in unserem Chat vorbei. Du
+kannst dich entweder via IRC oder Telegram verbinden:
+<ul>
+  <li>
+    <a href="https://webchat.freenode.net/?randomnick=1&channels=%23luxeria">
+      <code>#luxeria</code> auf irc.freenode.net
+    </a>
+  </li>
+  <li>
+    <a href="https://t.me/luxeria_irc">
+      LuXeria auf Telegram
+    </a>
+  </li>
+</ul>
+
+<h3>Kontaktformular</h3>
+Für alle wichtigeren Anfragen kannst du über folgendes Kontaktformular direkt den
+Vorstand erreichen:
+<p>
 <form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
     <input type="text" name="email" placeholder="Email Address">
     <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
@@ -39,3 +59,4 @@ form.wj-contact input[type="submit"] {
     height: auto;
 }
 </style>
+</p>

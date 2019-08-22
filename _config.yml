@@ -26,9 +26,9 @@ navbar-links:
   Über uns: "aboutme"
   Mitmachen: "standort"
   Verein:
-    - Statuten: "https://github.com/luxeria/luxstat/blob/master/luxstat.pdf"
+    - Statuten: "https://github.com/luxeria/luxstat/raw/master/luxstat.pdf"
     - Kontakt: "kontakt"
-  Wiki: "http://wiki.luxeria.ch"
+  Wiki: "https://wiki.luxeria.ch"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

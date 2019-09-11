@@ -26,7 +26,7 @@ Besucher welche mit dem ÖV zu LuXeria gelangen möchten, nehmen die VBL Linie 2
 
 # Anreise mit dem Auto
 
-Besucher welche mit dem Auto anreisen haben Parkmöglichkeiten direkt vor dem Lokal, die Besucherparkplätze sind als solche markiert. Dazu nach dem ehemaligen Wachhaus links abbiegen.
+Besucher welche mit dem Auto anreisen haben Parkmöglichkeiten direkt vor dem Lokal (Eingang STEHR), die Besucherparkplätze sind als solche markiert. Dazu den Wegweisern Richtung **Rampe 2** folgen.
 
 
 # Karte

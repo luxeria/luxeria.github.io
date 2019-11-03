@@ -3,7 +3,6 @@ layout: post
 title: LuXeria events - Interview mit gandro
 gh-badge: [star, fork, follow]
 tags: [events,interview]
-published: false
 ---
 
 ## Wer ist die magische Fee hinter unseren Events?

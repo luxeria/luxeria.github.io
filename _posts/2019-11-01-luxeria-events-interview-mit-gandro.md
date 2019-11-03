@@ -1,11 +1,11 @@
 ---
 layout: post
-title: LuXeria events - Interview mit gandro
+title: Wer ist die magische Fee hinter unseren Events?
 gh-badge: [star, fork, follow]
 tags: [events,interview]
 ---
+##Interview mit gandro
 
-## Wer ist die magische Fee hinter unseren Events?
 Die LuXeria reist regelmässig an Events. Ob dies der Chaos Communication Congress oder die Gulaschprogrammiernacht ist.
 Wir dürfen uns glücklich schätzen, dass wir eine magische Fee im Verein haben, *der* das alles organisiert!
 Im Interview verrät gandro wie er die Events organisiert und welche Hürden er umgehen muss damit alles klappt!

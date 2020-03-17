@@ -12,7 +12,7 @@ vorläufig rein digital abhalten. Dazu planen wir wöchtentlich 1-2 Vorträge vi
 
 Das erste Treffen findet am **Mittwoch, 18. März 2020 um 19:15 Uhr** statt. Das organisierte Programm wird ungefähr eine Stunde dauern, ihr dürft danach aber gerne länger im Chat bleiben um zu diskutieren und plaudern.
 
-Wir planen diese Treffen bis auf weiteres wöchtentlich abzuhalten, keine Sorge wenn ihr morgen nicht dabei sein könnt.
+Wir planen diese Treffen bis auf weiteres wöchtentlich abzuhalten, also macht euch keine Sorgen wenn ihr morgen nicht dabei sein könnt.
 
 ## Wo?
 
@@ -25,7 +25,7 @@ Wir werden ausserdem auch im Chat online sein:
   * [#luxeria auf irc.freenode.net](https://webchat.freenode.net/?randomnick=1&channels=%23luxeria) (Zugriff via Webbrowser)
   * [LuXeria auf Telegram](https://t.me/luxeria_irc) (Zugriff via Telegram)
 
-Ein Benutzerkonto oder spezielle Software (ausser einem modernen Webbrauser) sind weder für Chat noch für Video notwendig. Falls du Fragen oder Probleme hast, melde dich bitte direkt im IRC oder Telegram.
+Ein Benutzerkonto oder spezielle Software (ausser einem modernen Webbrowser) sind weder für Chat noch für Video notwendig. Falls du Fragen oder Probleme hast, melde dich bitte direkt im IRC oder Telegram.
 
 ## Was?
 

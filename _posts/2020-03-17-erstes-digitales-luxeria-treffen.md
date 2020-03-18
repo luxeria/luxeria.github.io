@@ -18,7 +18,7 @@ Wir planen diese Treffen bis auf weiteres wöchtentlich abzuhalten, also macht e
 
 Die Vorträge werden ausschliesslich mit der open-source Software Jitsi gestreamed. Um teilzunehmen brauchst du lediglich auf folgenden Link zu klicken:
 
- * **[meet.golem.de/LuxeriaTreffen](https://meet.golem.de/LuxeriaTreffen)** (Zugriff via Webbrowser)
+ * **[meet.luxeria.ch/LuXeriaTreffen](https://meet.luxeria.ch/LuXeriaTreffen)** (Zugriff via Webbrowser)
 
 Wir werden ausserdem auch im Chat online sein:
 

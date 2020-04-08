@@ -5,7 +5,7 @@ gh-badge: [star, fork, follow]
 tags: [treffen,verein,public]
 ---
 
-Diese Woche gibt es eine Einführung in Datenanalyse und einen Überblick über Kubernetes Security Technologien.
+Diese Woche gibt es Vorträge zu *Stream Data Processing in Rust* und *Garbage Collectors*.
 
 ## Wann?
 

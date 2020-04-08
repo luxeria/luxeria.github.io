@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4. Digitales Treffen am . April
+title: 4. Digitales Treffen am 8. April
 gh-badge: [star, fork, follow]
 tags: [treffen,verein,public]
 ---
@@ -9,7 +9,7 @@ Diese Woche gibt es Vorträge zu *Stream Data Processing in Rust* und *Garbage C
 
 ## Wann?
 
-Das Treffen findet am **Mittwoch, 1. April 2020 um 19:30 Uhr** statt. Das organisierte Programm wird ungefähr eine Stunde dauern, ihr dürft danach aber gerne länger im Chat bleiben eure Projekte vorzustellen, zu diskutieren und zu plaudern.
+Das Treffen findet am **Mittwoch, 8. April 2020 um 19:30 Uhr** statt. Das organisierte Programm wird ungefähr eine Stunde dauern, ihr dürft danach aber gerne länger im Chat bleiben eure Projekte vorzustellen, zu diskutieren und zu plaudern.
 
 ## Wo?
 

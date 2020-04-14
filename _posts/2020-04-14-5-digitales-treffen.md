@@ -5,7 +5,7 @@ gh-badge: [star, fork, follow]
 tags: [treffen,verein,public]
 ---
 
-Diese Woche gibt es Vorträge zu *Stream Data Processing in Rust* und *Garbage Collectors*.
+Diese Woche geht es um das maschinelle Hirn und Sicherheit. 
 
 ## Wann?
 

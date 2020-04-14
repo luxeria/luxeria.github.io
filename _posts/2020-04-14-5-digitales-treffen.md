@@ -5,7 +5,7 @@ gh-badge: [star, fork, follow]
 tags: [treffen,verein,public]
 ---
 
-Diese Woche geht es um das maschinelle Hirn und Sicherheit. 
+Diese Woche geht es um das maschinelle Hirn. 
 
 ## Wann?
 

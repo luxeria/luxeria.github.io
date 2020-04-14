@@ -32,9 +32,8 @@ Ein Benutzerkonto oder spezielle Software (ausser einem modernen Webbrowser) sin
 Wir haben zwei Vorträge geplant für dieses Treffen:
 
  - **19:30 Uhr** Begrüssung
- - **19:30 - 20:00 Uhr** *Security Standards* (von zoepfe) <br>
- - **20:00 - 20:30 Uhr** *Bioinformatik: Was ist ein Neuron und was ist ein neuronales Netzwerk?* (von pnt) <br>
- - **ab 20:30 Uhr** Zeit für Kurzvorträge, Fragen, Diskussionen und Plaudereien.
+ - **19:30 - 20:00 Uhr** *Bioinformatik: Was ist ein Neuron und was ist ein neuronales Netzwerk?* (von pnt) <br>
+ - **ab 20:00 Uhr** Zeit für Kurzvorträge, Fragen, Diskussionen und Plaudereien.
 
 Wenn du das nächste Mal selber einen Vortrag einreichen möchtest, oder du dich für ein bestimmtes Thema interessierst und gerne einen Vortrag hören möchtest, bitte melde dich bei uns im Chat!
 

@@ -33,7 +33,8 @@ Wir haben zwei Vorträge geplant für dieses Treffen:
 
  - **19:30 Uhr** Begrüssung
  - **19:30 Uhr** *Einführung in Django* (von roli)
- - **ab 20:00 Uhr** Zeit Kurzvorträge, Fragen, Diskussionen und Plaudereien.
+ - **20:00 Uhr** *Zukünftige Änderungen LuXeria* (anni & Vorstand)
+ - **ab 20:15 Uhr** Zeit Kurzvorträge, Fragen, Diskussionen und Plaudereien.
 
 Wenn du das nächste Mal selber einen Vortrag einreichen möchtest, oder du dich für ein bestimmtes Thema interessierst und gerne einen Vortrag hören möchtest, bitte melde dich bei uns im Chat!
 

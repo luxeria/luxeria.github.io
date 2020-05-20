@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10. Digitales Treffen am 19. Mai
+title: 10. Digitales Treffen am 20. Mai
 gh-badge: [star, fork, follow]
 tags: [treffen,verein,public]
 ---
@@ -9,7 +9,7 @@ Diese Woche behandeln wir das Django-Webframework.
 
 ## Wann?
 
-Das Treffen findet am **Mittwoch, 19. Mai 2020 um 19:30 Uhr** statt. Das organisierte Programm wird ungefähr eine Stunde dauern, ihr dürft danach aber gerne länger im Chat bleiben eure Projekte vorzustellen, zu diskutieren und zu plaudern.
+Das Treffen findet am **Mittwoch, 20. Mai 2020 um 19:30 Uhr** statt. Das organisierte Programm wird ungefähr eine Stunde dauern, ihr dürft danach aber gerne länger im Chat bleiben eure Projekte vorzustellen, zu diskutieren und zu plaudern.
 
 ## Wo?
 

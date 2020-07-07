@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Treffen vor Ort am 1. Juli 2020
+title: Treffen vor Ort am 8. Juli 2020
 gh-badge: [star, fork, follow]
 tags: [treffen,verein,public]
 ---

@@ -30,5 +30,5 @@ Wir haben die Pandemie noch nicht überstanden, deshalb gilt es vorsichtig zu se
 3. Es wird eine Präsenzliste geführt. Bitte tragt euch vor ab bei unserer Essensliste rechts ein (is.gd/luxfood).
 4. Gäste sind erlaubt, wenn begleitet von einem LuXeria Mitglied. Ihr seid verantwortlich alle Kontaktdaten für euer Gast dabei zu haben.
 5. Begrüsst und verabschiedet wird sich mit Abstand und ohne körperlichen Kontakt.
-6. Hände werden regelmässig desinfiziert. 
+6. Wasche und desinfiziere regelmässig die Hände
 7. Wir stellen Masken zur Verfügung falls der Abstand nicht eingehalten werden kann. Die Masken dienen zum Fremdschutz, nicht zum Eigenschutz. Also wenn ihr Pollenallergie o.Ä. habt, dann tragt bitte eine Maske. Auch wenn ihr zu zweit an einem Bildschirm arbeiten müsst, dann tragt eine Maske.

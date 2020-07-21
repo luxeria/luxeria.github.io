@@ -9,7 +9,7 @@ Diese Woche gibt es wieder ein Treffen vor Ort. Das Treffen findet statt, für K
 
 ## Wann?
 
-Das Treffen findet am **Mittwoch, 8. Juli 2020 ab 18:00 Uhr** statt.
+Das Treffen findet am **Mittwoch, 22. Juli 2020 ab 18:00 Uhr** statt.
 
 ## Wo?
 

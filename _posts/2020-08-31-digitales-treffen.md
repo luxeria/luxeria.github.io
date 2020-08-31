@@ -30,7 +30,7 @@ Ein Benutzerkonto oder spezielle Software (ausser einem modernen Webbrowser) sin
 
 ## Was?
 
-Wir haben einen Vortrag geplant für dieses Treffen:
+Wir haben ein Show und Tell geplant für dieses Treffen. Das bedeutet, dass jede Person 10-20 Minuten für die Vorstellung ihres Projektes hat:
 
  - **19:30 Uhr** Begrüssung
  - **19:30 Uhr** *Show und Tell* - Zöpfe zeigt seine Java-Webapplikation und Cyrill sein Rust Embedded-Projekt

@@ -5,7 +5,7 @@ gh-badge: [star, fork, follow]
 tags: [treffen,verein,public]
 ---
 
-Diese Woche schauen gibt es wieder ein Show & Tell. Auch du bist herzlich eingeladen,
+Diese Woche schauen gibt es wieder ein Show and Tell. Auch du bist herzlich eingeladen,
 dein Projekt in einem Kurzvortrag vorzustellen!
 
 ## Wann?

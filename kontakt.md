@@ -23,7 +23,7 @@ kannst dich entweder via IRC oder Telegram verbinden:
 Für alle wichtigeren Anfragen kannst du über folgendes Kontaktformular direkt den
 Vorstand erreichen:
 <p>
-<form class="wj-contact" action="https://formspree.io/{{site.email}}" method="POST">
+<form class="wj-contact" action="https://formspree.io/f/mbjqjbjb" method="POST">
     <input type="text" name="email" placeholder="Email Address">
     <textarea type="text" name="content" rows="10" placeholder="Message"></textarea>
     <input type="hidden" name="_next" value="<REDIRECTION LINK> ">

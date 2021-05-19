@@ -10,7 +10,7 @@
   },
   "contact": {
     "email": "zimmermann.anja@outlook.com",
-    "irc": "irc://irc.freenode.net/luxeria",
+    "irc": "irc://irc.libera.chat/luxeria",
     "twitter": "@LuXeria_Luzern"
   },
   "issue_report_channels": [
@@ -25,14 +25,6 @@
       "type": "rss",
       "url": "https://wiki.luxeria.ch/feed.php"
     },
-    "calendar": {
-      "type": "ical",
-      "url": "http://calendar.luxeria.ch/feeds/meetings.ics"
-    },
-    "calendar": {
-      "type": "ical",
-      "url": "http://calendar.luxeria.ch/feeds/events.ics"
-    }
   },
   "projects": [
     "https://wiki.luxeria.ch/",

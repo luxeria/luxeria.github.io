@@ -8,8 +8,8 @@ Bist du neugierig geworden? Dann schau unverbindlich in unserem Chat vorbei. Du
 kannst dich entweder via IRC oder Telegram verbinden:
 <ul>
   <li>
-    <a href="https://webchat.freenode.net/?randomnick=1&channels=%23luxeria">
-      <code>#luxeria</code> auf irc.freenode.net
+    <a href="https://kiwiirc.com/client/irc.libera.chat/?theme=cli#luxeria">
+      <code>#luxeria</code> auf irc.libera.chat
     </a>
   </li>
   <li>

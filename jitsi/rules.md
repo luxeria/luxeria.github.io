@@ -13,7 +13,7 @@ Verhaltensregeln notwendig:
 jederzeit im Raum willkommen fühlen, und achte darauf, dass die Gesprächsthemen
 für alle Teilnehmenden zugänglich sind.*
 
-Sei Achtsam, dass du im virtuellen Raum die Gesichter der anderen Teilnehmenden
+Sei achtsam, dass du im virtuellen Raum die Gesichter der anderen Teilnehmenden
 im Zweifelsfall nicht lesen kannst: Lege genügend Redepausen ein, um auch andere
 ans Wort kommen zu lassen. Unterlasse sensible Diskussionen und Themen, die
 Kontext und Moderation benötigen, um in einer gemischten Gruppe sinnvoll
@@ -23,7 +23,7 @@ Konkret bedeutet das auch:
 
 - Zeige Einfühlungsvermögen und Freundlichkeit gegenüber anderen Menschen.
 - Respektiere unterschiedliche Meinungen, Standpunkte und Erfahrungen.
-- Verwende keine sexualisierte Sprache, Bilder oder Symbolik.
+- Verwende keine sexualisierte oder diskriminierende Sprache, Bilder oder Symbolik.
 - Respektiere die Privatsphäre und Grenzen der anderen Teilnehmenden.
 - Unterlasse beleidigende oder abwertende Kommentare, persönliche oder
   politische Angriffe, Trollen und Belästigungen.

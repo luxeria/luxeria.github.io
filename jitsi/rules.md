@@ -14,7 +14,7 @@ jederzeit im Raum willkommen fühlen, und achte darauf, dass die Gesprächstheme
 für alle Teilnehmenden zugänglich sind.*
 
 Sei achtsam, dass du im virtuellen Raum die Gesichter der anderen Teilnehmenden
-im Zweifelsfall nicht lesen kannst: Lege genügend Redepausen ein, um auch andere
+im Zweifelsfall nicht lesen kannst: Lege genügend Redepausen ein um auch andere
 ans Wort kommen zu lassen. Unterlasse sensible Diskussionen und Themen, die
 Kontext und Moderation benötigen, um in einer gemischten Gruppe sinnvoll
 diskutiert oder geteilt werden können.

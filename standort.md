@@ -4,6 +4,10 @@ title: Mitmachen
 subtitle: So findest du uns
 ---
 
+Zur Zeit findest du uns regelmässig am Mittwochabend ab ca. 20 Uhr **online** auf
+
+> [meet.luxeria.ch/LuXeriaTreffen](https://meet.luxeria.ch/LuXeriaTreffen)
+
 LuXeria hat ein Vereinslokal innerhalb der ICT-BZ Kursräume in Adligenswil, etwas ausserhalb von Luzern. Es befindet sich im **Businesspark H1** auf dem ortsbekannten Gelände der ehemaligen Ringier Print.
 
 > [ICT Berufsbildung Zentralschweiz](https://goo.gl/maps/6iaNGkiE3QpUPCVDA)<br>

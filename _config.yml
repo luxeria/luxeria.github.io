@@ -26,7 +26,7 @@ navbar-links:
   Über uns: "aboutme"
   Mitmachen: "standort"
   Verein:
-    - Statuten: "https://github.com/luxeria/luxstat/raw/master/luxstat.pdf"
+    - Statuten: "https://github.com/luxeria/luxstat/releases"
     - Kontakt: "kontakt"
   Wiki: "https://wiki.luxeria.ch"
 

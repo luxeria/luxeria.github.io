@@ -12,7 +12,7 @@ ausklingen zu lassen. <br> Das Wichtigste in Kürze:
 
  - 🗓️ *Datum:* 28.-30. Dezember 2022
  - 🏢 *Ort:* [Das LABOR, Degenstrasse 3, 6010 Kriens](https://goo.gl/maps/HrSMu33hREPF8U8XA)
- - 📢 *Mitmachen:* [Call for Proposals](https://laborluxeria.github.io/winterchaos2022/cfp) (14.-30. November 2022)
+ - 📢 *Mitmachen:* [Call for Proposals](https://laborluxeria.github.io/winterchaos2022/cfp) (bis 4.12.2022)
  - 🔗 *Infos:* [laborluxeria.github.io/winterchaos2022](https://laborluxeria.github.io/winterchaos2022/)
 
 <img src="../img/chaos_im_labor2021.jpg">

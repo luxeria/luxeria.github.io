@@ -24,7 +24,7 @@
     "wiki": {
       "type": "rss",
       "url": "https://wiki.luxeria.ch/feed.php"
-    },
+    }
   },
   "projects": [
     "https://wiki.luxeria.ch/",

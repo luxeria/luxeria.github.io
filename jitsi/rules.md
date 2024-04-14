@@ -25,6 +25,7 @@ Konkret bedeutet das auch:
 - Respektiere unterschiedliche Meinungen, Standpunkte und Erfahrungen.
 - Verwende keine sexualisierte oder diskriminierende Sprache, Bilder oder Symbolik.
 - Respektiere die Privatsphäre und Grenzen der anderen Teilnehmenden.
+- Schalte dich stumm bei Redepausen und trage angemessene Kleidung.
 - Unterlasse beleidigende oder abwertende Kommentare, persönliche oder
   politische Angriffe, Trollen und Belästigungen.
 

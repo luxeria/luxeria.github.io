@@ -1,5 +1,7 @@
 {
-  "api_compatibility": ["15"],
+  "api_compatibility": [
+    "15"
+  ],
   "space": "LuXeria",
   "logo": "https://luxeria.ch/img/luxeria.png",
   "url": "https://luxeria.ch/",

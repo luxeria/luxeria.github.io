@@ -16,6 +16,10 @@
     "message": "The weekly meeting takes place every Wednesday from approx. 20:00 in the following Jitsi meeting room: https://meet.luxeria.ch/LuxeriaTreffen"
   },
   "feeds": {
+    "blog": {
+      "type": "rss",
+      "url": "https://luxeria.ch/feed.xml"
+    },
     "wiki": {
       "type": "rss",
       "url": "https://wiki.luxeria.ch/feed.php"

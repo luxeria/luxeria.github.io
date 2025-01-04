@@ -13,7 +13,7 @@ Open-Source, Technik und Wissensaustausch ist das, was unser Verein ausmacht. Wi
 
  **Kassier:** Daniel Winz 
 
- **Infrastruktur:**
+ **Infrastruktur:** Ria Fischer
 
  **Event-Manager:** Sebastian Wicki 
  

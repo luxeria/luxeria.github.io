@@ -19,9 +19,12 @@ kannst dich entweder via IRC oder Telegram verbinden:
   </li>
 </ul>
 
-<h3>Kontaktformular</h3>
-Für alle wichtigeren Anfragen kannst du über folgendes Kontaktformular direkt den
-Vorstand erreichen:
+<h3>Anfragen</h3>
+Für alle wichtigeren Anfragen kannst du den
+Vorstand erreichen über:
+<a href= "mailto:vorstand@luxeria.ch">vorstand@luxeria.ch</a>
+<br>
+oder auch über folgendes Kontaktformular:
 <p>
 <form class="wj-contact" action="https://formspree.io/f/mbjqjbjb" method="POST">
     <input type="text" name="email" placeholder="Email Address">
@@ -60,3 +63,7 @@ form.wj-contact input[type="submit"] {
 }
 </style>
 </p>
+
+Für Fragen zu Mitgliederbeiträgen, Rechnungen und Spenden
+kannst du unseren Kassier erreichen über:
+<a href= "mailto:kassier@luxeria.ch">kassier@luxeria.ch</a>

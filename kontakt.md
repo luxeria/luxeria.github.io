@@ -66,4 +66,4 @@ form.wj-contact input[type="submit"] {
 
 Für Fragen zu Mitgliederbeiträgen, Rechnungen und Spenden
 kannst du unsere:n Kassier:in erreichen über:
-<a href= "mailto:kassier@luxeria.ch">kassier@luxeria.ch</a>
+<a href= "mailto:kasse@luxeria.ch">kasse@luxeria.ch</a>

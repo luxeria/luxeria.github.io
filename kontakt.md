@@ -6,6 +6,7 @@ title: Kontakt
 <h3>Chats</h3>
 Bist du neugierig geworden? Dann schau unverbindlich in unserem Chat vorbei. Du
 kannst dich entweder via IRC oder Telegram verbinden:
+
 <ul>
   <li>
     <a href="https://kiwiirc.com/client/irc.libera.chat/?theme=cli#luxeria">
@@ -15,6 +16,11 @@ kannst dich entweder via IRC oder Telegram verbinden:
   <li>
     <a href="https://t.me/luxeria_irc">
       LuXeria auf Telegram
+    </a>
+  </li>
+    <li>
+    <a href="https://discord.gg/PTfjtq53pr">
+      LuXeria auf Discord
     </a>
   </li>
 </ul>

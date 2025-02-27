@@ -27,6 +27,13 @@
       "url": "https://wiki.luxeria.ch/feed.php"
     }
   },
+  "links": [
+    {
+      "name": "Jitsi",
+      "description": "Our Jitsi room used for weekly meetings",
+      "url": "https://meet.luxeria.ch/LuxeriaTreffen"
+    }
+  ],
   "projects": [
     "https://wiki.luxeria.ch/",
     "https://github.com/luxeria"

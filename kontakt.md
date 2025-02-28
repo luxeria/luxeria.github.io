@@ -19,7 +19,7 @@ kannst dich entweder via IRC oder Telegram verbinden:
     </a>
   </li>
     <li>
-    <a href="https://discord.gg/PTfjtq53pr">
+    <a href="https://discord.gg/SJwwnu4V8y">
       LuXeria auf Discord
     </a>
   </li>

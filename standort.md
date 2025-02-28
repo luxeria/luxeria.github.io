@@ -23,7 +23,7 @@ Jitsi oder über einen der folgenden digitalen Kanäle:
     </a>
   </li>
     <li>
-    <a href="https://discord.gg/PTfjtq53pr">
+    <a href="https://discord.gg/SJwwnu4V8y">
       LuXeria auf Discord
     </a>
   </li>

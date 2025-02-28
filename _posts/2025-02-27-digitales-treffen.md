@@ -26,7 +26,7 @@ Du erreichst uns ausserdem über folgende Kanäle:
     </a>
   </li>
     <li>
-    <a href="https://discord.gg/PTfjtq53pr">
+    <a href="https://discord.gg/SJwwnu4V8y">
       LuXeria auf Discord
     </a>
   </li>

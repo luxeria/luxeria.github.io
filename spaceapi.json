@@ -5,6 +5,11 @@
   "space": "LuXeria",
   "logo": "https://luxeria.ch/img/luxeria.png",
   "url": "https://luxeria.ch/",
+  "location": {
+    "address": "LABOR Luzern, Degenstrasse 3, 6010 Kriens",
+    "lon": 8.277263,
+    "lat": 47.03599
+  },
   "contact": {
     "email": "vorstand@luxeria.ch",
     "irc": "irc://irc.libera.chat/luxeria",

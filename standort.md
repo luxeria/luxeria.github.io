@@ -4,11 +4,13 @@ title: Mitmachen
 subtitle: So findest du uns
 ---
 
-Zur Zeit findest du uns regelmässig am Mittwochabend ab ca. 20 Uhr **online** auf
+Die Luxeria trifft sich jeden *ersten Mittwoch* im Monat ab 20 Uhr im [LABOR Luzern](https://laborluzern.ch/) an der [Degenstrasse 3, 6010 Kriens](https://www.openstreetmap.org/?mlat=47.03598&mlon=8.27985#map=18/47.03598/8.27985).
+
+Ausserdem findest du uns regelmässig am Mittwochabend ab ca. 20 Uhr **online** auf
 
 > [meet.luxeria.ch/LuXeriaTreffen](https://meet.luxeria.ch/LuXeriaTreffen)
 
-Die Luxeria hat zur Zeit kein physikalisches Vereinslokal. Du erreichst uns im
+Du erreichst uns im
 Jitsi oder über einen der folgenden digitalen Kanäle:
 
 <ul>

@@ -4,7 +4,7 @@ title: Über uns
 subtitle: Der Hackerspace in Luzern!
 ---
 
-Open-Source, Technik und Wissensaustausch ist das, was unser Verein ausmacht. Wir sind im Raum Luzern angesiedelt und bieten als einziger Verein in der Region den regelmässigen Austausch in diesem Bereich. Unser wöchentliches Treffen dreht sich rund um Vorträge, Projekte oder den generellen Wissensaustausch. Interesse geweckt? Dann melde dich doch bei uns!
+Open-Source, Technik und Wissensaustausch ist das, was unser Verein ausmacht. Wir sind im Raum Luzern angesiedelt und bieten in der Region den regelmässigen Austausch in diesem Bereich. Unser monatliches Treffen dreht sich rund um Vorträge, Projekte oder den generellen Wissensaustausch. Interesse geweckt? [Dann melde dich doch bei uns!](/kontakt/)
 
 ## Der Vorstand
  **Präsident:** Cyrill Leutwiler

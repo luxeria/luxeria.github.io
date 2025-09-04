@@ -2,7 +2,7 @@
 layout: post
 title: Digitale Treffen in 2025
 gh-badge: [star, fork, follow]
-tags: [treffen,verein,public]
+tags: [info,treffen,verein,public]
 ---
 
 Zur Zeit findest du uns regelmässig am Mittwochabend ab ca. 20 Uhr **online** auf: **[meet.luxeria.ch/LuXeriaTreffen](https://meet.luxeria.ch/LuXeriaTreffen)**. 

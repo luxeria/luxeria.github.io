@@ -2,7 +2,7 @@
 layout: post
 title: Wir sind umgezogen!
 gh-badge: [star, fork, follow]
-tags: [treffen,verein,labor]
+tags: [info,treffen,verein,labor]
 ---
 
 Wir sind umgezogen und haben ein neues Zuhause! Seit August 2025 findet man uns

@@ -2,7 +2,7 @@
 layout: post
 title: "Der Fahrplan für das Winterchaos 2022 steht"
 gh-badge: [star, fork, follow]
-tags: [treffen,verein,congress,CCC]
+tags: [congress,CCC,labor,events]
 ---
 
 Der Fahrplan für das [Winterchaos 2022](https://laborluxeria.github.io/winterchaos2022/) steht – ein ganz herzliches Danke an alle, die einen Vortrag eingereicht haben!

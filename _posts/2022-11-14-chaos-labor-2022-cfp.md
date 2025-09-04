@@ -2,7 +2,7 @@
 layout: post
 title: "Chaos im LABOR mit LuXeria 2022: CFP"
 gh-badge: [star, fork, follow]
-tags: [treffen,verein,congress,CCC]
+tags: [congress,CCC,labor,events]
 ---
 
 Auch dieses Jahr zieht das Chaos in den Hackspace des LABOR Luzerns.

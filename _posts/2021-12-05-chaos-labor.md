@@ -2,7 +2,7 @@
 layout: post
 title: Chaos im Labor
 gh-badge: [star, fork, follow]
-tags: [treffen,verein,congress,CCC]
+tags: [congress,CCC,labor,events]
 ---
 
 

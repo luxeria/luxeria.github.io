@@ -15,6 +15,8 @@ Open-Source, Technik und Wissensaustausch ist das, was unser Verein ausmacht. Wi
 
  **Infrastruktur:** Ria Fischer
 
+**Infrastruktur:** Nico Merz
+
  **Event-Manager:** Sebastian Wicki 
  
 

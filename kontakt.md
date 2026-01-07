@@ -9,7 +9,7 @@ kannst dich entweder via IRC oder Telegram verbinden:
 
 <ul>
   <li>
-    <a href="https://kiwiirc.com/client/irc.libera.chat/?theme=cli#luxeria">
+    <a href="https://web.libera.chat/#luxeria">
       <code>#luxeria</code> auf irc.libera.chat
     </a>
   </li>

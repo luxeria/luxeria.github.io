@@ -15,7 +15,7 @@ Jitsi oder über einen der folgenden digitalen Kanäle:
 
 <ul>
   <li>
-    <a href="https://kiwiirc.com/client/irc.libera.chat/?theme=cli#luxeria">
+    <a href="https://web.libera.chat/#luxeria">
       <code>#luxeria</code> auf irc.libera.chat
     </a>
   </li>

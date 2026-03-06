@@ -217,6 +217,10 @@ exclude:
   - screenshot.png
   - docs/
 
+# Include the well-known folder as static files
+include:
+- .well-known
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
